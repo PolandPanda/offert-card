@@ -12,7 +12,7 @@ Installing
 ======
 
 ```
-1. Download or clone repo -> gh repo clone PolandPanda/offert-card
+1. Download or clone repo → gh repo clone PolandPanda/offert-card
 ```
 
 ```
