@@ -27,12 +27,8 @@ Open live link: [ soon ]
 Design
 ======
 
-* Desktop
 
 ![Design](https://github.com/PolandPanda/offert-card/blob/master/assets/images/desktop.png)
-
-
-* Mobile
 
 ![Design](https://github.com/PolandPanda/offert-card/blob/master/assets/images/mobile.png)
 
