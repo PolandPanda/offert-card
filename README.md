@@ -1,3 +1,6 @@
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+
 Technology stack
 ======
 * HTML
@@ -9,7 +12,7 @@ Installing
 ======
 
 ```
-1. Download or clone repo
+1. Download or clone repo -> gh repo clone PolandPanda/offert-card
 ```
 
 ```
@@ -29,6 +32,6 @@ Design
 Licence
 ======
 
-&copy; All rights reserved 2020
+&copy; All rights reserved 2021
 
 
