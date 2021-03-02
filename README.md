@@ -27,13 +27,10 @@ Open live link: [ soon ]
 Design
 ======
 
-Mobile
-======
-![Design](https://github.com/PolandPanda/offert-card/blob/master/assets/images/mobile.png)
 
-Desktop
-======
 ![Design](https://github.com/PolandPanda/offert-card/blob/master/assets/images/desktop.png)
+
+![Design](https://github.com/PolandPanda/offert-card/blob/master/assets/images/mobile.png)
 
 Licence
 ======
