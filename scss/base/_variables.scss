@@ -1,0 +1,23 @@
+//fonts
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+
+$font: "Poppins", sans-serif;
+$p-font-size-mobile: 16px;
+$p-font-size-medium: 18px;
+$p-font-size-large: 22px;
+
+$h1-font-sizes: (
+  null  : 28px
+  480px : 31px,
+  640px : 33px,
+  1024px: 36px
+);
+
+$p-font-sizes: (
+  null  :15px
+  480px : 16px,
+  640px : 18px,
+  1024px: 19px
+);
