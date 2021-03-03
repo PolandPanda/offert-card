@@ -1,0 +1,35 @@
+.offer {
+    &__box {
+        width:90%;
+        border-radius: 15px;
+        min-height: 400px;
+        margin: 10px auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        text-align: center;
+    }
+}
+
+.light {
+    background-color: $light;
+    color:$dark;
+}
+
+.dark {
+    background-color: $dark;
+    color: $light;
+}
+
+.social {
+    display: flex;
+    align-items: center;
+    &__icons {
+        a {
+            img {
+                width: 60%;
+            }
+        }
+    }
+}

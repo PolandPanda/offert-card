@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -16,5 +17,79 @@ a {
 
 img {
   max-width: 100%;
+}
+
+body {
+  background-color: #3d4e4b8c;
+  font-family: "Poppins", sans-serif;
+}
+
+.offer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  min-height: 100vh;
+}
+
+.btn {
+  font-family: "Poppins", sans-serif;
+  padding: 10px 40px;
+}
+
+.individual {
+  background-color: #16D4C8;
+}
+
+.offer__box {
+  width: 90%;
+  border-radius: 15px;
+  min-height: 400px;
+  margin: 10px auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+
+.light {
+  background-color: #fff;
+  color: #292929;
+}
+
+.dark {
+  background-color: #292929;
+  color: #fff;
+}
+
+.social {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.social__icons a img {
+  width: 60%;
 }
 /*# sourceMappingURL=style.css.map */
