@@ -9,11 +9,22 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    @media (min-width:768px) {
+        flex-direction: row;
+    }
 }
 
 .btn {
     font-family: $font;
     padding: 10px 40px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    transition: .3s ease-in-out;
+    cursor: pointer;
+    &:hover {
+        opacity: .9;
+    }
 }
 
 .individual {
