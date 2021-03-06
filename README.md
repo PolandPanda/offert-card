@@ -21,7 +21,7 @@ Installing
 
 Or
 ```
-Open live link: [ soon ]
+Open live link: https://polandpanda.github.io/offert-card/
 ```
 
 Design
